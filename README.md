@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Manya</h1>
 <h3 align="center">A student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/7f/15/da/7f15da5e8691e2bb7c19a0261341b269.jpg">
-- 🌱 I’m currently learning **Python and C**
+- 🌱 I’m currently learning Python and C
 
 - 💬 Ask me about **Java and Literature, fictional and historical**
 
