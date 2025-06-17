@@ -1,6 +1,6 @@
 [![MasterHead](https://64.media.tumblr.com/68ff9eff3afa7fac802d591fb85dd2fe/66d812690fd3a611-90/s1280x1920/a3f2dc5aa39bbd9c29ba00cddb8f28d2c7023ec8.png)](https://github.com/manya7842)
 
-<h1 align="center">Hey, I'm Manya Pandey</h1>
+<h1 align="center">Hey, I'm Manya</h1>
 <h3 align="center">Computer Science Student | AI/ML Geek | Android Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/7f/15/da/7f15da5e8691e2bb7c19a0261341b269.jpg">
