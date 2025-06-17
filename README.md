@@ -21,8 +21,7 @@
 
 ### 💬 Let's Talk About
 - **AI/ML**: Natural language processing, convolutional neural networks, reinforcement learning
-- **Mobile Development**: Android, Jetpack Compose, Kotlin
-- **Programming**: Python, Java, C, SQL
+- **Programming**: Python, Java, C, Kotlin, SQL
 - **Literature**: Both fictional and historical works
 
 <h3 align="left">Connect with me:</h3>
