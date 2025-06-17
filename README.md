@@ -20,7 +20,7 @@
 - **Statistical Models Collection**: Bigram language model, linear layers, and supervised fine-tuning implementations for NLP applications
 
 ### 💬 Let's Talk About
-- **AI/ML**: Deep learning, CNNs, transformer models, reinforcement learning
+- **AI/ML**: Natural language processing, convolutional neural networks, reinforcement learning
 - **Mobile Development**: Android, Jetpack Compose, Kotlin
 - **Programming**: Python, Java, C, SQL
 - **Literature**: Both fictional and historical works
