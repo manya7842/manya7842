@@ -45,6 +45,6 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=manya7842&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manya7842&" alt="manya7842" /></p>
 ---
 ⭐️ From [manya7842](https://github.com/manya7842)
